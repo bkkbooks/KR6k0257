@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0257_000.yaml, hash: 'sha256:86a2fe1f2258502da2418474782f93418d0c21d1a4d17d5e3c1d65ad85d0ae0d'}
+  - {seq: 0, filename: KR6k0257_000.yaml, hash: 'sha256:a79c9574155d2ed77ca741e444796163f7ac4344b66db0de33538a83b8b49712'}
   - {seq: 1, filename: KR6k0257_001.yaml, hash: 'sha256:0f39d2944cfaaa5a9690abe222db45636bccbeb468b7afab15bbd858ac195bc0'}
   - {seq: 2, filename: KR6k0257_002.yaml, hash: 'sha256:911761b1c57bf4fdeee16b1588a4d89d60a4f430eae930f2278696116b09f9db'}
   - {seq: 3, filename: KR6k0257_003.yaml, hash: 'sha256:219b014895455394969df297479fdb07a867e79fbe018e7aec96abaa3f4bfa74'}
@@ -33,7 +33,7 @@ assets:
   - {seq: 9, filename: KR6k0257_009.yaml, hash: 'sha256:2c330db594ee5c8c48ee5569097d6ee6797baa94c349f50b09613466e1f9dcff'}
   - {seq: 10, filename: KR6k0257_010.yaml, hash: 'sha256:3178b2eccb1e4a7bfeaf2e413b38d537e58f8c7b06a3faae90e09ed57a25bb10'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0257_000.markers.yaml, hash: 'sha256:6786a586f7ddf476112b76bacb14eb8a2e4d72fde88ba4e1b3079be72ff8988a'}
+  - {seq: 0, role: markers, filename: assets/KR6k0257_000.markers.yaml, hash: 'sha256:d89cbec79a718ab45a9cd3592afaf4671bbda816449cde415067360b9f0e85ab'}
   - {seq: 1, role: markers, filename: assets/KR6k0257_001.markers.yaml, hash: 'sha256:1dc20c6926f4b27a5732dcfcf7c9a12f52da33636a2c1ef7e2ea1d25a524ec3f'}
   - {seq: 2, role: markers, filename: assets/KR6k0257_002.markers.yaml, hash: 'sha256:3b085907a8497d4b34a98265d926bde50b5894d5c2fa990ce771e7088c2a283d'}
   - {seq: 3, role: markers, filename: assets/KR6k0257_003.markers.yaml, hash: 'sha256:9878ee024b04d6b772a88e536f87f38e8546e1b34ff5ba94724c5897869ed97d'}
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0257_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1113-A 律苑事規要語序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0257_X_000-mulu-2
     span:
-    - front
+    - body
     - 178
     - 178
   label: No. 1113-B 杭州路明慶大興國寺
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0257_X_000-mulu-3
     span:
-    - front
+    - body
     - 440
     - 440
   label: No. 1113-C
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0257_X_000-mulu-4
     span:
-    - front
+    - body
     - 684
     - 684
   label: 律苑事規目錄
@@ -2965,7 +2965,7 @@ table_of_contents:
   label: No. 1113-D 習讀儀
   type: mulu
   level: 1
-hash: sha256:867730c8a156bf56c3b33cc6b7c6d5e56c18b328dc89ac88ac2321a7b05ebad5
+hash: sha256:c3b366706334561a8aeea839be7e6762b7db5ecdc6a32ca0d960849eb0109925
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
